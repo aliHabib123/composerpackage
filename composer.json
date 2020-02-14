@@ -1,14 +1,12 @@
 {
-    "name": "alihabib/phpsdk",
-    "description": "A PHP package for querying graphQL",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Ali Habib",
-            "email": "alihabib2005@hotmail.com"
-        }
-    ],
-    "minimum-stability": "stable",
-    "require": {}
+	"name" : "alihabib/phpsdk",
+	"description" : "A PHP package for querying graphQL",
+	"type" : "library",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Ali Habib",
+			"email" : "alihabib2005@hotmail.com"
+		}
+	],
+	"minimum-stability" : "dev"
 }
